@@ -268,6 +268,14 @@ tile_set = SubResource("TileSet_xdadj")
 position = Vector2(143, -24)
 scale = Vector2(0.5, 0.5)
 
+[node name="Player3" parent="." instance=ExtResource("2_nmjpi")]
+position = Vector2(143, -24)
+scale = Vector2(0.5, 0.5)
+
+[node name="Player4" parent="." instance=ExtResource("2_nmjpi")]
+position = Vector2(143, -24)
+scale = Vector2(0.5, 0.5)
+
 [node name="Dimod" parent="." instance=ExtResource("3_1y8me")]
 position = Vector2(274, 19)
 
